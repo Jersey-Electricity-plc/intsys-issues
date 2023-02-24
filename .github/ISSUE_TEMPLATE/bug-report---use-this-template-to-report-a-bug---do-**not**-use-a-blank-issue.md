@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: Bug report - Use THIS template to report a BUG.  DO **NOT** USE A BLANK ISSUE
 about: Create a report to help us improve
 title: ''
-labels: bug
+labels: bug, enhancement
 assignees: ''
 
 ---

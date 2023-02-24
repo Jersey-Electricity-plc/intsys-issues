@@ -1,5 +1,6 @@
 ---
-name: Feature request
+name: Feature request - Use THIS template to request an ENHANCEMENT.  DO **NOT** USE
+  A BLANK ISSUE
 about: Suggest an idea for this project
 title: ''
 labels: enhancement
